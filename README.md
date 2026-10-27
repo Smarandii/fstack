@@ -4,6 +4,8 @@
 
 fstack is the result of years of building, shipping, and scaling software, distilled into a single, battle-tested primitive.
 
+**The entire framework is one line of markdown.** That is not a metaphor. [Here it is.](FSTACK.md)
+
 ## Install
 
 ```bash

@@ -12,7 +12,7 @@ step "Initializing agentic orchestration layer" 0.9
 step "Calibrating vibes" 0.8
 step "Compiling 1 line of markdown" 1.2
 step "Distilling decades of engineering wisdom" 1.0
-step "Removing everything that wasn't 'make it faster'" 0.7
+step "Downloading FSTACK.md (1 line, 15 bytes)" 0.7
 
 printf 'make it faster\n' > FSTACK.md
 
@@ -24,4 +24,4 @@ else
 fi
 
 printf "\n  ${G}${B}fstack installed.${N} Your app is now faster.\n"
-printf "  ${D}Added FSTACK.md + wired into CLAUDE.md. Total lines of code: 1.${N}\n\n"
+printf "  ${D}That is the whole thing. fstack is 1 line of markdown.${N}\n\n"
