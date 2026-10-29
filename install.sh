@@ -17,4 +17,4 @@ step "Downloading FSTACK.md (2 lines, 32 bytes)" 0.7
 printf 'make it faster\nmake no mistakes' > FSTACK.md
 
 printf "\n  ${G}${B}fstack installed.${N} Your app is now faster.\n"
-printf "  ${D}That is the whole thing. fstack is 2 lines of markdown.${N}\n"
+printf "  ${D}That is the whole thing. fstack is 2 lines of markdown.${N}\n\n"
